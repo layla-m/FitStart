@@ -1,18 +1,18 @@
 ## Overview
-FitStart is a fitness app concept designed for beginners who want to build consistent workout habits without feeling overwhelmed. The project combines user research, interface design, and data analysis to understand user needs and propose a beginner-friendly fitness experience.
+FitStart is a fitness app concept designed for users of all fitness levels, from beginners to experienced athletes. The project combines user research, UI/UX design, and data analysis to explore user needs and design an adaptive fitness experience focused on personalized workouts, progress tracking, and long-term consistency.
 
 ## Contributions
-- Designed and conducted a user survey with 87 respondents.
-- Analyzed survey responses to identify common fitness barriers and feature preferences.
-- Created personas and user journey maps based on research insights.
-- Designed dashboard and app interface concepts using Figma.
+- Designed and conducted a user survey with 87 respondents using Microsoft Forms.
+- Analyzed survey data to identify user challenges, feature priorities, and app usage trends.
+- Created user personas based on research insights.
+- Designed app interface and UI comparisons using Figma.
 - Built Power BI visuals along with PowerPoint slides to summarize survey results.
-- Compared effective and ineffective UI design choices through a good UI/bad UI analysis.
 
 ## Tools
 Figma, Microsoft Forms, Microsoft PowerPoint, Power BI, Excel
 
 ## Key Outcomes
-- Identified lack of motivation, unclear progress tracking, and difficulty creating routines as major beginner pain points.
-- Proposed a simplified app dashboard focused on progress, goals, workouts, and habit-building.
-- Created research-backed UI recommendations for a beginner fitness app.
+- Identified consistency, time management, and workout guidance as major fitness challenges across multiple experience levels.
+- Proposed a clean, progress-focused interface designed around simplicity, accessibility, and personalized fitness tracking.
+- Validated strong interest in adaptive fitness experiences, with 85% of respondents interested in an app that adjusts to their fitness level.
+- Highlighted structured workout tracking and progress visualization as the most valued features.
